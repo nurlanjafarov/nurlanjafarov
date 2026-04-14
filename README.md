@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHQwNWN6MmQwMWpoNWlhazJoeXp1dmVpMjdpaGJwdXE5N213azMzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DX5N7VRvsU0y8QJZiE/giphy.gif" width="200">
   <br>
-  Salam, mən Nurlan! 🤙
+  Hi, im Nurlan! 🤙
 </h1>
 
 <p align="center">
