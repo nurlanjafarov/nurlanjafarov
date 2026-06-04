@@ -1,41 +1,48 @@
-<h1 align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHQwNWN6MmQwMWpoNWlhazJoeXp1dmVpMjdpaGJwdXE5N213azMzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DX5N7VRvsU0y8QJZiE/giphy.gif" width="160">
-  <br>
-  Hi, I'm Nurlan 
-</h1>
+# 👋 Hi, I'm Nurlan
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=4A90D9&center=true&vCenter=true&width=500&lines=C%2B%2B+Developer;Python+Enjoyer;HTML+%26+CSS+Learner" alt="Typing SVG" />
-</p>
+**Full Stack Developer** · Business Administration Student  
+📍 Baku, Azerbaijan | 🎓 AzTU + STEP IT Academy | 💼 Open to work
 
-<p align="center">
-  <a href="https://github.com/nur1an">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/nurlan-jafarov-769343355/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+---
 
-<hr>
+## 🧠 About Me
 
-### 🛠 Tech Stack
+I'm a passionate developer based in Baku, studying Business Administration
+at Azerbaijan Technical University and Full Stack Development at STEP IT Academy.
+I enjoy building practical applications with clean code and love solving
+real-world problems through technology.
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css" />
-</div>
+---
 
-<hr>
+## 🛠️ Tech Skills
 
-### 📊 GitHub Stats
+| Language | Level |
+|----------|-------|
+| 🐍 Python | Intermediate |
+| 🌐 HTML & CSS | Intermediate |
+| ⚙️ C++ | Intermediate |
+| 🔷 C# | Beginner |
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nur1an&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nur1an&layout=compact&theme=tokyonight&hide_border=true&langs_count=4" />
-</div>
+---
 
-<br>
+## 🎓 Education
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nur1an&theme=tokyonight&hide_border=true" />
-</div>
+- **Azerbaijan Technical University** — Business Administration (2024–2028)
+- **STEP IT Academy Azerbaijan** — Full Stack Developer (2025–2028)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nur1an&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nur1an&layout=compact&theme=tokyonight)
+
+---
+
+## 📬 Let's Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-nur1an-181717?logo=github)](https://github.com/nur1an)
+
+---
+
+*📍 Baku, Azerbaijan · Open to junior developer opportunities*
